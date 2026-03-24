@@ -1,0 +1,206 @@
+{
+  "main": {
+    "id": "a74b902cfabaef6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d6556fa627cc208",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b2f59779d2f6f154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자바스크립트/5강 기본 용어.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5강 기본 용어"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a170260f7c57e4fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "d077a6b0ab788ba3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20864220b10d15dc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "a74819cace424fb5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "e3f839e9dc89fdd8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e5bc23713fa6ddb1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ed613f8df2dbb0f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23b29af89ddf276e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "자바스크립트/2강 코드 실행 방법.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "2강 코드 실행 방법 의 백링크"
+            }
+          },
+          {
+            "id": "166cdb7606f22b14",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "자바스크립트/2강 코드 실행 방법.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2강 코드 실행 방법 의 나가는 링크"
+            }
+          },
+          {
+            "id": "fd0042bf2b2ce00e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "bdbcf1fbbc74585e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "43bf1388d16dcbac",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "자바스크립트/2강 코드 실행 방법.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2강 코드 실행 방법 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "b2f59779d2f6f154",
+  "lastOpenFiles": [
+    "자바스크립트/4강 Vscode관련 이야기.md",
+    "자바스크립트/5강 기본 용어.md",
+    "img/Pasted image 20260324220726.png",
+    "img/Pasted image 20260324220712.png",
+    "img",
+    "img/Pasted image 20260324204056.png",
+    "자바스크립트/3강 오류 확인 방법.md",
+    "자바스크립트/2강 코드 실행 방법.md",
+    "자바스크립트/1강 개발 환경 설치.md",
+    "자바스크립트/0강 책 소개, 강의 소개.md",
+    "무제.base",
+    "자바스크립트",
+    "무제 2.base",
+    "무제 1.base",
+    "무제 3.base",
+    "무제 4.base",
+    "#아아.md"
+  ]
+}
