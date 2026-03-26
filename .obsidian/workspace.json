@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바스크립트/5강 기본 용어.md",
+                "file": "자바스크립트/4강 Vscode관련 이야기.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5강 기본 용어"
+              "title": "4강 Vscode관련 이야기"
+            }
+          },
+          {
+            "id": "16b2704267a6027a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "자바스크립트/8강 불.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "8강 불"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -180,13 +195,18 @@
       "daily-notes:오늘의 일일 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "bases:새 베이스 생성하기": false
+      "bases:새 베이스 생성하기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b2f59779d2f6f154",
+  "active": "16b2704267a6027a",
   "lastOpenFiles": [
-    "자바스크립트/4강 Vscode관련 이야기.md",
+    "자바스크립트/9강 불 연산.md",
+    "자바스크립트/7강 문자열과 숫자.md",
+    "자바스크립트/8강 불.md",
+    "자바스크립트/6강 주석과 출력.md",
     "자바스크립트/5강 기본 용어.md",
+    "자바스크립트/4강 Vscode관련 이야기.md",
     "img/Pasted image 20260324220726.png",
     "img/Pasted image 20260324220712.png",
     "img",
