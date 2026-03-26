@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바스크립트/8강 불.md",
+                "file": "자바스크립트/10강.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8강 불"
+              "title": "10강"
             }
           }
         ],
@@ -202,8 +202,9 @@
   "active": "16b2704267a6027a",
   "lastOpenFiles": [
     "자바스크립트/9강 불 연산.md",
-    "자바스크립트/7강 문자열과 숫자.md",
+    "자바스크립트/10강.md",
     "자바스크립트/8강 불.md",
+    "자바스크립트/7강 문자열과 숫자.md",
     "자바스크립트/6강 주석과 출력.md",
     "자바스크립트/5강 기본 용어.md",
     "자바스크립트/4강 Vscode관련 이야기.md",
