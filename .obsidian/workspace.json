@@ -67,14 +67,12 @@
             "id": "1c7b62f358e54806",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "자바스크립트/18강.md",
-                "mode": "source",
-                "source": false
+                "file": "img/Pasted image 20260324204056.png"
               },
-              "icon": "lucide-file",
-              "title": "18강"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260324204056"
             }
           }
         ],
@@ -243,8 +241,8 @@
   },
   "active": "1c7b62f358e54806",
   "lastOpenFiles": [
-    "자바스크립트/19강.md",
     "자바스크립트/18강.md",
+    "자바스크립트/19강.md",
     "자바스크립트/17강.md",
     "자바스크립트/16강.md",
     "자바스크립트/15강 조건문 기본.md",
