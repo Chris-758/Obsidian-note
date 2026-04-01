@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바스크립트/24강 4장 마무리, 피라미드 예제.md",
+                "file": "자바스크립트/25강 함수.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24강 4장 마무리, 피라미드 예제"
+              "title": "25강 함수"
             }
           }
         ],
@@ -255,11 +255,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20864220b10d15dc",
+  "active": "7200477770960c51",
   "lastOpenFiles": [
+    "자바스크립트/24강 4장 마무리, 피라미드 예제.md",
+    "자바스크립트/25강 함수.md",
     "img/Pasted image 20260331223603.png",
     "자바스크립트/23강 while.md",
-    "자바스크립트/24강 4장 마무리, 피라미드 예제.md",
     "자바스크립트/22강 for of, for in.md",
     "자바스크립트/21강 스택, 힙, 비파괴적 처리, 파괴적 처리.md",
     "자바스크립트/20강 배열.md",
