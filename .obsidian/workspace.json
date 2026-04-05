@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4d6556fa627cc208",
+        "id": "36df22db117efe5b",
         "type": "tabs",
         "children": [
           {
-            "id": "b2f59779d2f6f154",
+            "id": "3198934e1f4529a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "자바스크립트/4강 Vscode관련 이야기.md",
+                "file": "자바스크립트/24강 4장 마무리, 피라미드 예제.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4강 Vscode관련 이야기"
-            }
-          },
-          {
-            "id": "16b2704267a6027a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자바스크립트/11강 상수와 변수 기본.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "11강 상수와 변수 기본"
-            }
-          },
-          {
-            "id": "2e25cfe44c0bac1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자바스크립트/12강.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12강"
-            }
-          },
-          {
-            "id": "ae06be80d3a3b9e2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자바스크립트/13강 자료형 변환.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "13강 자료형 변환"
-            }
-          },
-          {
-            "id": "1c7b62f358e54806",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자바스크립트/23강 while.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23강 while"
-            }
-          },
-          {
-            "id": "7200477770960c51",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "자바스크립트/28강 기본 매개변수와 가독성.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "28강 기본 매개변수와 가독성"
+              "title": "24강 4장 마무리, 피라미드 예제"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -255,12 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7200477770960c51",
+  "active": "3198934e1f4529a7",
   "lastOpenFiles": [
     "자바스크립트/25강 함수.md",
     "자바스크립트/26강 함수 기본 예제.md",
     "자바스크립트/27강 나머지 매개변수와 전개 연산자.md",
     "자바스크립트/28강 기본 매개변수와 가독성.md",
+    "img/Pasted image 20260324204056.png",
+    "img/Pasted image 20260329162052.png",
     "img/Pasted image 20260402202833.png",
     "img/Pasted image 20260402202619.png",
     "자바스크립트/24강 4장 마무리, 피라미드 예제.md",
@@ -278,9 +209,7 @@
     "자바스크립트/13강 자료형 변환.md",
     "자바스크립트/14강.md",
     "자바스크립트/16강  else if.md",
-    "img/Pasted image 20260329162052.png",
     "자바스크립트/11강 상수와 변수 기본.md",
-    "img/Pasted image 20260324204056.png",
     "자바스크립트/9강 불 연산.md",
     "자바스크립트/8강 불.md",
     "자바스크립트/7강 문자열과 숫자.md",
@@ -290,7 +219,6 @@
     "img/Pasted image 20260324220726.png",
     "img/Pasted image 20260324220712.png",
     "img",
-    "자바스크립트/3강 오류 확인 방법.md",
     "무제.base",
     "자바스크립트",
     "무제 2.base",
